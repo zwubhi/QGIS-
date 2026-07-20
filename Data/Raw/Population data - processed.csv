@@ -1,0 +1,548 @@
+GCCSA code,GCCSA name,SA4 code,SA4 name,SA3 code,SA3 name,SA2 code,SA2 name,2024 no.,2025 no.,Area (km2),Population density 2025 (persons/km2)
+3GBRI,Greater Brisbane,301,Brisbane - East,30101,Capalaba,301011001,Alexandra Hills,17225,17361,13.6,1273.6
+3GBRI,Greater Brisbane,301,Brisbane - East,30101,Capalaba,301011002,Belmont - Gumdale,7904,7965,33.1,240.6
+3GBRI,Greater Brisbane,301,Brisbane - East,30101,Capalaba,301011003,Birkdale,15897,16024,11.6,1381.5
+3GBRI,Greater Brisbane,301,Brisbane - East,30101,Capalaba,301011004,Capalaba,19118,19277,18.9,1020.5
+3GBRI,Greater Brisbane,301,Brisbane - East,30101,Capalaba,301011005,Thorneside,4024,4020,2.7,1508
+3GBRI,Greater Brisbane,301,Brisbane - East,30101,Capalaba,301011006,Wellington Point,12300,12391,9.4,1317.6
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021007,Cleveland,16755,16952,11.9,1430
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021008,Ormiston,6910,7042,4.9,1428.7
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021009,Redland Bay,19550,20283,46.9,432.5
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021011,Sheldon - Mount Cotton,8698,8742,65.2,134.1
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021012,Thornlands,21439,21863,21.6,1010
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021013,Victoria Point,15815,16134,13.4,1203.5
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021550,North Stradbroke Island,2259,2276,277.1,8.2
+3GBRI,Greater Brisbane,301,Brisbane - East,30102,Cleveland - Stradbroke,301021551,Southern Moreton Bay Islands,9950,10466,39.9,262.1
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031014,Brisbane Port - Lytton,10,10,32.8,0.3
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031015,Manly - Lota,8230,8319,4.2,1981.2
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031016,Manly West,12311,12380,4.9,2523.7
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031017,Murarrie,5149,5204,8.4,616.7
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031018,Tingalpa,9308,9404,8.9,1053.5
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031019,Wakerley,9805,9865,5.2,1898.5
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031020,Wynnum,15253,15505,6.1,2528.4
+3GBRI,Greater Brisbane,301,Brisbane - East,30103,Wynnum - Manly,301031021,Wynnum West - Hemmant,16762,17027,12.3,1387.2
+3GBRI,Greater Brisbane,302,Brisbane - North,30201,Bald Hills - Everton Park,302011022,Bald Hills,8362,8412,13.4,629.9
+3GBRI,Greater Brisbane,302,Brisbane - North,30201,Bald Hills - Everton Park,302011023,Bridgeman Downs,11655,11888,9.5,1254.2
+3GBRI,Greater Brisbane,302,Brisbane - North,30201,Bald Hills - Everton Park,302011024,Carseldine,10304,10472,4.5,2303.8
+3GBRI,Greater Brisbane,302,Brisbane - North,30201,Bald Hills - Everton Park,302011025,Everton Park,10978,11303,4.2,2713
+3GBRI,Greater Brisbane,302,Brisbane - North,30201,Bald Hills - Everton Park,302011026,McDowall,8580,8886,4.4,2026.2
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021027,Aspley,13616,13789,6.3,2203.4
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021028,Chermside,12482,12811,3.4,3782.1
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021029,Chermside West,7008,7050,3.4,2071.6
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021030,Geebung,4639,4655,4,1151.1
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021031,Kedron - Gordon Park,15475,15654,5.2,2998.9
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021032,Stafford,7373,7421,3.4,2158.5
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021033,Stafford Heights,7314,7356,2.9,2528.9
+3GBRI,Greater Brisbane,302,Brisbane - North,30202,Chermside,302021034,Wavell Heights,11106,11227,3.6,3136.7
+3GBRI,Greater Brisbane,302,Brisbane - North,30203,Nundah,302031035,Boondall,10267,10430,10.8,970.2
+3GBRI,Greater Brisbane,302,Brisbane - North,30203,Nundah,302031036,Brisbane Airport,131,131,45.3,2.9
+3GBRI,Greater Brisbane,302,Brisbane - North,30203,Nundah,302031037,Eagle Farm - Pinkenba,2500,2746,7.2,379.6
+3GBRI,Greater Brisbane,302,Brisbane - North,30203,Nundah,302031038,Northgate - Virginia,7461,7591,6.1,1239
+3GBRI,Greater Brisbane,302,Brisbane - North,30203,Nundah,302031039,Nudgee - Banyo,11649,11757,13.9,844.4
+3GBRI,Greater Brisbane,302,Brisbane - North,30203,Nundah,302031040,Nundah,14570,14812,3.7,4033.1
+3GBRI,Greater Brisbane,302,Brisbane - North,30204,Sandgate,302041041,Bracken Ridge,18616,18847,8.1,2323.8
+3GBRI,Greater Brisbane,302,Brisbane - North,30204,Sandgate,302041042,Brighton (Qld),10097,10213,6.5,1573.6
+3GBRI,Greater Brisbane,302,Brisbane - North,30204,Sandgate,302041043,Deagon,3972,4034,2.8,1431.7
+3GBRI,Greater Brisbane,302,Brisbane - North,30204,Sandgate,302041044,Sandgate - Shorncliffe,6952,6975,4.3,1604.4
+3GBRI,Greater Brisbane,302,Brisbane - North,30204,Sandgate,302041045,Taigum - Fitzgibbon,15192,15445,6.3,2458.9
+3GBRI,Greater Brisbane,302,Brisbane - North,30204,Sandgate,302041046,Zillmere,10029,10132,3.7,2738.2
+3GBRI,Greater Brisbane,303,Brisbane - South,30301,Carindale,303011047,Camp Hill,12911,13067,4.6,2852.7
+3GBRI,Greater Brisbane,303,Brisbane - South,30301,Carindale,303011048,Cannon Hill,7623,7746,4,1959.8
+3GBRI,Greater Brisbane,303,Brisbane - South,30301,Carindale,303011049,Carina,12691,12897,4.4,2943
+3GBRI,Greater Brisbane,303,Brisbane - South,30301,Carindale,303011050,Carina Heights,7398,7500,3.4,2206.5
+3GBRI,Greater Brisbane,303,Brisbane - South,30301,Carindale,303011051,Carindale,17355,17402,10.2,1706.7
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021052,Annerley,12969,13137,2.9,4568.4
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021053,Coorparoo,18975,19140,5.3,3589.8
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021054,Fairfield - Dutton Park,5433,5526,2.1,2658
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021055,Greenslopes,11474,11607,3,3928.8
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021056,Holland Park,9242,9279,3.3,2845
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021057,Holland Park West,6732,6779,2.6,2641.9
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021058,Woolloongabba,10049,10367,2.4,4310.4
+3GBRI,Greater Brisbane,303,Brisbane - South,30302,Holland Park - Yeronga,303021059,Yeronga,10831,10950,6.1,1797.5
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031060,Eight Mile Plains,16531,16789,7.7,2185.3
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031061,Macgregor (Qld),6619,6684,2.7,2489.1
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031062,Mansfield (Qld),9280,9369,5.3,1764.8
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031063,Mount Gravatt,16976,17149,7.4,2328.5
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031064,Rochedale - Burbank,13084,13761,47.3,290.6
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031065,Upper Mount Gravatt,12064,12276,4.2,2914.4
+3GBRI,Greater Brisbane,303,Brisbane - South,30303,Mt Gravatt,303031066,Wishart,11900,11870,4.8,2479.6
+3GBRI,Greater Brisbane,303,Brisbane - South,30304,Nathan,303041067,Coopers Plains,6269,6428,4.4,1467
+3GBRI,Greater Brisbane,303,Brisbane - South,30304,Nathan,303041068,Moorooka,11677,11885,4.1,2903
+3GBRI,Greater Brisbane,303,Brisbane - South,30304,Nathan,303041069,Robertson,5540,5745,1.9,3016.1
+3GBRI,Greater Brisbane,303,Brisbane - South,30304,Nathan,303041070,Salisbury - Nathan,8179,8341,9.5,873.7
+3GBRI,Greater Brisbane,303,Brisbane - South,30304,Nathan,303041071,Tarragindi,11592,11785,4.5,2590.3
+3GBRI,Greater Brisbane,303,Brisbane - South,30305,Rocklea - Acacia Ridge,303051072,Algester,9961,10205,3.7,2765.4
+3GBRI,Greater Brisbane,303,Brisbane - South,30305,Rocklea - Acacia Ridge,303051073,Calamvale - Stretton,25000,25416,19.7,1287.8
+3GBRI,Greater Brisbane,303,Brisbane - South,30305,Rocklea - Acacia Ridge,303051074,Pallara - Willawong,15439,16586,26.7,621.2
+3GBRI,Greater Brisbane,303,Brisbane - South,30305,Rocklea - Acacia Ridge,303051075,Parkinson - Drewvale,16992,17108,12.7,1349.8
+3GBRI,Greater Brisbane,303,Brisbane - South,30305,Rocklea - Acacia Ridge,303051076,Rocklea - Acacia Ridge,10005,10061,22.4,448.2
+3GBRI,Greater Brisbane,303,Brisbane - South,30306,Sunnybank,303061077,Kuraby,9399,9507,4.6,2047.9
+3GBRI,Greater Brisbane,303,Brisbane - South,30306,Sunnybank,303061078,Runcorn,15483,15762,6.7,2356.1
+3GBRI,Greater Brisbane,303,Brisbane - South,30306,Sunnybank,303061079,Sunnybank,10278,10570,4.4,2409.4
+3GBRI,Greater Brisbane,303,Brisbane - South,30306,Sunnybank,303061080,Sunnybank Hills,19502,19742,6.4,3065.1
+3GBRI,Greater Brisbane,304,Brisbane - West,30401,Centenary,304011081,Jindalee - Mount Ommaney,7861,7925,4.8,1650.8
+3GBRI,Greater Brisbane,304,Brisbane - West,30401,Centenary,304011082,Middle Park - Jamboree Heights,7347,7411,2.7,2771.9
+3GBRI,Greater Brisbane,304,Brisbane - West,30401,Centenary,304011083,Riverhills,4257,4267,2.2,1958.3
+3GBRI,Greater Brisbane,304,Brisbane - West,30401,Centenary,304011084,Seventeen Mile Rocks - Sinnamon Park,9908,9886,5.4,1824.5
+3GBRI,Greater Brisbane,304,Brisbane - West,30401,Centenary,304011085,Westlake,4516,4502,1.9,2364.6
+3GBRI,Greater Brisbane,304,Brisbane - West,30402,Kenmore - Brookfield - Moggill,304021086,Bellbowrie - Moggill,11062,11211,17.4,643.5
+3GBRI,Greater Brisbane,304,Brisbane - West,30402,Kenmore - Brookfield - Moggill,304021087,Brookfield - Kenmore Hills,7208,7202,58,124.1
+3GBRI,Greater Brisbane,304,Brisbane - West,30402,Kenmore - Brookfield - Moggill,304021088,Chapel Hill,11165,11166,5.4,2068.4
+3GBRI,Greater Brisbane,304,Brisbane - West,30402,Kenmore - Brookfield - Moggill,304021089,Fig Tree Pocket,4597,4632,4.3,1082
+3GBRI,Greater Brisbane,304,Brisbane - West,30402,Kenmore - Brookfield - Moggill,304021090,Kenmore,10072,10170,5.3,1926.3
+3GBRI,Greater Brisbane,304,Brisbane - West,30402,Kenmore - Brookfield - Moggill,304021091,Pinjarra Hills - Pullenvale,5877,5885,44.2,133.2
+3GBRI,Greater Brisbane,304,Brisbane - West,30403,Sherwood - Indooroopilly,304031092,Chelmer - Graceville,8043,8015,3.2,2474.6
+3GBRI,Greater Brisbane,304,Brisbane - West,30403,Sherwood - Indooroopilly,304031093,Corinda,5599,5686,2.9,1971.6
+3GBRI,Greater Brisbane,304,Brisbane - West,30403,Sherwood - Indooroopilly,304031094,Indooroopilly,15097,15496,7.4,2107.1
+3GBRI,Greater Brisbane,304,Brisbane - West,30403,Sherwood - Indooroopilly,304031095,Sherwood,6971,7050,2.3,3091.6
+3GBRI,Greater Brisbane,304,Brisbane - West,30403,Sherwood - Indooroopilly,304031096,St Lucia,14975,15447,3.4,4510.7
+3GBRI,Greater Brisbane,304,Brisbane - West,30403,Sherwood - Indooroopilly,304031097,Taringa,9990,10156,2.1,4803.5
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041098,Enoggera,9830,9945,9.6,1035.9
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041099,Enoggera Reservoir,33,33,37.7,0.9
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041100,Keperra,7577,7561,5.2,1456.1
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041101,Mitchelton,9539,9734,4.2,2305.3
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041102,Mount Coot-tha,0,0,14.6,0
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041103,The Gap,18127,18230,12.3,1487.1
+3GBRI,Greater Brisbane,304,Brisbane - West,30404,The Gap - Enoggera,304041104,Upper Kedron - Ferny Grove,12617,12833,13.2,972
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011105,Brisbane City,16845,17502,2.4,7397.3
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011106,Fortitude Valley,11505,11889,1.3,9328.4
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011107,Highgate Hill,7200,7335,1.2,6062
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011108,Kangaroo Point,11864,12206,1.3,9116.4
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011109,New Farm,13729,13880,2.1,6474.5
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011110,South Brisbane,17087,17517,2,8686.4
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011111,Spring Hill,8917,9361,1.2,7529.8
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30501,Brisbane Inner,305011112,West End,17419,17928,2,9121.8
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30502,Brisbane Inner - East,305021113,Balmoral,4828,4885,1.4,3531.9
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30502,Brisbane Inner - East,305021114,Bulimba,7864,7925,2.1,3845.8
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30502,Brisbane Inner - East,305021115,East Brisbane,6637,6833,1.9,3652.1
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30502,Brisbane Inner - East,305021116,Hawthorne,5681,5702,1.4,4112.8
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30502,Brisbane Inner - East,305021117,Morningside - Seven Hills,15811,16055,6.6,2416
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30502,Brisbane Inner - East,305021118,Norman Park,7342,7414,2.3,3291.7
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031119,Albion,4813,5026,1.5,3338.4
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031120,Alderley,7200,7270,2.5,2959.3
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031121,Ascot,6314,6454,2.5,2615
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031122,Clayfield,11593,11773,2.9,4023.3
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031123,Grange,4913,4942,1.8,2763.8
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031124,Hamilton (Qld),7296,7408,1.6,4520.7
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031125,Hendra,5172,5204,2.7,1933.2
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031126,Kelvin Grove - Herston,12172,12531,3.4,3719.1
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031127,Newmarket,5420,5493,1.7,3312.2
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031128,Newstead - Bowen Hills,20887,21474,3.1,7027.3
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031129,Wilston,4136,4168,1.4,3003.3
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031130,Windsor,8827,8951,2.9,3070.5
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30503,Brisbane Inner - North,305031131,Wooloowin - Lutwyche,12114,12298,3.1,3986.6
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30504,Brisbane Inner - West,305041132,Ashgrove,14830,14911,6.5,2286.4
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30504,Brisbane Inner - West,305041133,Auchenflower,6109,6222,1.3,4890.7
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30504,Brisbane Inner - West,305041134,Bardon,11065,11168,4.7,2383.7
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30504,Brisbane Inner - West,305041135,Paddington - Milton,13236,13364,3.6,3729.2
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30504,Brisbane Inner - West,305041136,Red Hill (Qld),6659,6757,1.7,3998.2
+3GBRI,Greater Brisbane,305,Brisbane Inner City,30504,Brisbane Inner - West,305041137,Toowong,13620,13725,3.9,3534.7
+3RQLD,Rest of Qld,306,Cairns,30601,Cairns - North,306011138,Brinsmead,5694,5702,5.1,1114
+3RQLD,Rest of Qld,306,Cairns,30601,Cairns - North,306011139,Clifton Beach - Kewarra Beach,12547,12760,37.6,339
+3RQLD,Rest of Qld,306,Cairns,30601,Cairns - North,306011140,Freshwater - Stratford,3837,3856,15.1,255.1
+3RQLD,Rest of Qld,306,Cairns,30601,Cairns - North,306011141,Redlynch,14717,14877,59.4,250.5
+3RQLD,Rest of Qld,306,Cairns,30601,Cairns - North,306011142,Trinity Beach - Smithfield,19362,19862,22,900.9
+3RQLD,Rest of Qld,306,Cairns,30601,Cairns - North,306011143,Yorkeys Knob - Machans Beach,6293,6319,21,300.8
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021144,Bentley Park,9116,9214,6.9,1343.2
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021145,Cairns City,13461,13599,6.2,2190.1
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021146,Earlville - Bayview Heights,8755,8723,7.9,1109.5
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021147,Edmonton,12219,12342,20,617.2
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021148,Gordonvale - Trinity,11103,11413,327.1,34.9
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021149,Kanimbla - Mooroobool,10298,10375,7.7,1350.1
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021150,Lamb Range,6,6,212.6,0
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021151,Manoora,6313,6323,2.2,2833.6
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021152,Manunda,5352,5321,4.2,1253.2
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021153,Mount Sheridan,9003,9042,6.7,1341.8
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021154,Westcourt - Bungalow,6793,6811,9.7,700.1
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021155,White Rock,5161,5198,9.5,545.6
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021156,Whitfield - Edge Hill,8575,8573,6.9,1237.8
+3RQLD,Rest of Qld,306,Cairns,30602,Cairns - South,306021157,Woree,5249,5252,5.7,915.8
+3RQLD,Rest of Qld,306,Cairns,30603,Innisfail - Cassowary Coast,306031158,Babinda,4702,4765,669.2,7.1
+3RQLD,Rest of Qld,306,Cairns,30603,Innisfail - Cassowary Coast,306031159,Innisfail,9452,9516,53,179.4
+3RQLD,Rest of Qld,306,Cairns,30603,Innisfail - Cassowary Coast,306031160,Johnstone,8234,8281,1294.7,6.4
+3RQLD,Rest of Qld,306,Cairns,30603,Innisfail - Cassowary Coast,306031161,Tully,11693,11867,3065.1,3.9
+3RQLD,Rest of Qld,306,Cairns,30603,Innisfail - Cassowary Coast,306031162,Wooroonooran,3,3,754.3,0
+3RQLD,Rest of Qld,306,Cairns,30603,Innisfail - Cassowary Coast,306031163,Yarrabah,2654,2669,158.8,16.8
+3RQLD,Rest of Qld,306,Cairns,30604,Port Douglas - Daintree,306041164,Daintree,6956,7011,2231.2,3.1
+3RQLD,Rest of Qld,306,Cairns,30604,Port Douglas - Daintree,306041165,Port Douglas,5979,6041,189.9,31.8
+3RQLD,Rest of Qld,306,Cairns,30605,Tablelands (East) - Kuranda,306051166,Atherton,12306,12472,235.2,53
+3RQLD,Rest of Qld,306,Cairns,30605,Tablelands (East) - Kuranda,306051167,Herberton,5700,5730,9566.2,0.6
+3RQLD,Rest of Qld,306,Cairns,30605,Tablelands (East) - Kuranda,306051168,Kuranda,5009,5033,591.3,8.5
+3RQLD,Rest of Qld,306,Cairns,30605,Tablelands (East) - Kuranda,306051169,Malanda - Yungaburra,9569,9700,1255,7.7
+3RQLD,Rest of Qld,306,Cairns,30605,Tablelands (East) - Kuranda,306051170,Mareeba,12577,12752,480.2,26.6
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011171,Balonne,4345,4350,31104.1,0.1
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011172,Chinchilla,9113,9159,8048.7,1.1
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011173,Goondiwindi,6286,6251,830.5,7.5
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011174,Inglewood - Waggamba,4158,4179,17523.1,0.2
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011175,Miles - Wandoan,4358,4394,11841.6,0.4
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011176,Roma,7101,7083,78,90.8
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011177,Roma Surrounds,6235,6287,58626.4,0.1
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30701,Darling Downs (West) - Maranoa,307011178,Tara,3992,4030,13208.4,0.3
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30702,Darling Downs - East,307021179,Crows Nest - Rosalie,9717,9824,3250.7,3
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30702,Darling Downs - East,307021180,Jondaryan,7820,7826,2130.3,3.7
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30702,Darling Downs - East,307021181,Millmerran,3321,3351,4517,0.7
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30702,Darling Downs - East,307021182,Pittsworth,5917,5951,1054.9,5.6
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30702,Darling Downs - East,307021183,Wambo,17763,17853,5700.3,3.1
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30703,Granite Belt,307031184,Clifton - Greenmount,5353,5433,1263.9,4.3
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30703,Granite Belt,307031185,Southern Downs - East,4575,4630,1634.6,2.8
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30703,Granite Belt,307031186,Southern Downs - West,5241,5347,2684.5,2
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30703,Granite Belt,307031187,Stanthorpe,5443,5480,33.6,162.9
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30703,Granite Belt,307031188,Stanthorpe Surrounds,6483,6544,2657.1,2.5
+3RQLD,Rest of Qld,307,Darling Downs - Maranoa,30703,Granite Belt,307031189,Warwick,16127,16197,158.7,102
+3RQLD,Rest of Qld,308,Central Queensland,30801,Central Highlands (Qld),308011190,Central Highlands - East,7569,7647,18635.2,0.4
+3RQLD,Rest of Qld,308,Central Queensland,30801,Central Highlands (Qld),308011191,Central Highlands - West,7660,7683,41551.3,0.2
+3RQLD,Rest of Qld,308,Central Queensland,30801,Central Highlands (Qld),308011192,Emerald,15155,15238,39,390.9
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031205,Berserker,7244,7293,10,727.6
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031206,Bouldercombe,1970,1972,1348.8,1.5
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031207,Emu Park,6236,6314,40.8,154.6
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031208,Frenchville - Mount Archer,9225,9246,30.3,305.6
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031209,Glenlee - Rockyview,5778,6002,208,28.8
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031210,Gracemere,13172,13305,153.9,86.5
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031211,Lakes Creek,5030,5037,16.8,299.7
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031212,Mount Morgan,3045,3090,490.7,6.3
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031213,Norman Gardens,11195,11288,36,313.2
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031214,Park Avenue,5496,5538,5,1115.8
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031215,Parkhurst - Kawana,7998,8181,28.4,288
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031216,Rockhampton - West,6100,6148,34.5,178
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031217,Rockhampton City,3363,3345,51.2,65.4
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031218,Rockhampton Surrounds - East,3699,3754,680.9,5.5
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031219,Rockhampton Surrounds - North,4957,5054,7572.6,0.7
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031220,Rockhampton Surrounds - West,3200,3226,4359.2,0.7
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031221,Shoalwater Bay,22,22,3177,0
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031222,The Range - Allenstown,8132,8125,5.5,1478.5
+3RQLD,Rest of Qld,308,Central Queensland,30803,Rockhampton,308031223,Yeppoon,22082,22522,78.6,286.7
+3RQLD,Rest of Qld,308,Central Queensland,30804,Biloela,308041528,Banana,9202,9297,28531.3,0.3
+3RQLD,Rest of Qld,308,Central Queensland,30804,Biloela,308041529,Biloela,5838,5847,18.9,309.5
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051530,Agnes Water - Miriam Vale,7868,8267,3772.8,2.2
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051531,Boyne Island - Tannum Sands,10605,10760,123,87.5
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051532,Callemondah,33,33,32.7,1
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051533,Clinton - New Auckland,15148,15311,22.8,672.1
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051534,Gladstone,6699,6839,10.2,668.4
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051535,Gladstone Hinterland,12140,12274,6465.4,1.9
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051536,Kin Kora - Sun Valley,3570,3581,2.7,1332.4
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051537,South Trees,0,0,24.1,0
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051538,Telina - Toolooa,6763,6828,23.5,290.4
+3RQLD,Rest of Qld,308,Central Queensland,30805,Gladstone,308051539,West Gladstone,5123,5153,7.1,728.5
+3RQLD,Rest of Qld,309,Gold Coast,30901,Broadbeach - Burleigh,309011224,Broadbeach Waters,8890,9109,5.3,1714
+3RQLD,Rest of Qld,309,Gold Coast,30901,Broadbeach - Burleigh,309011225,Burleigh Heads,9804,10055,8.6,1174.7
+3RQLD,Rest of Qld,309,Gold Coast,30901,Broadbeach - Burleigh,309011226,Burleigh Waters,15048,15180,6.7,2259.2
+3RQLD,Rest of Qld,309,Gold Coast,30901,Broadbeach - Burleigh,309011227,Mermaid Beach - Broadbeach,15757,16126,3,5377.7
+3RQLD,Rest of Qld,309,Gold Coast,30901,Broadbeach - Burleigh,309011228,Mermaid Waters,14300,14564,7.1,2055.8
+3RQLD,Rest of Qld,309,Gold Coast,30901,Broadbeach - Burleigh,309011229,Miami,8301,8531,3,2847.2
+3RQLD,Rest of Qld,309,Gold Coast,30902,Coolangatta,309021230,Coolangatta,7021,7204,1.9,3788.4
+3RQLD,Rest of Qld,309,Gold Coast,30902,Coolangatta,309021231,Currumbin - Tugun,13177,13477,7.9,1698.3
+3RQLD,Rest of Qld,309,Gold Coast,30902,Coolangatta,309021232,Currumbin Waters,10156,10220,9.9,1035.4
+3RQLD,Rest of Qld,309,Gold Coast,30902,Coolangatta,309021233,Elanora,13171,13343,8.9,1500.3
+3RQLD,Rest of Qld,309,Gold Coast,30902,Coolangatta,309021234,Palm Beach,18097,18678,6.3,2950
+3RQLD,Rest of Qld,309,Gold Coast,30903,Gold Coast - North,309031235,Arundel,11889,12056,9.7,1238
+3RQLD,Rest of Qld,309,Gold Coast,30903,Gold Coast - North,309031236,Biggera Waters,10796,11016,3.2,3469.8
+3RQLD,Rest of Qld,309,Gold Coast,30903,Gold Coast - North,309031237,Coombabah,10742,10815,11.6,931.9
+3RQLD,Rest of Qld,309,Gold Coast,30903,Gold Coast - North,309031238,Labrador,19473,19745,5,3952.4
+3RQLD,Rest of Qld,309,Gold Coast,30903,Gold Coast - North,309031239,Paradise Point - Hollywell,10641,10736,5.7,1895.8
+3RQLD,Rest of Qld,309,Gold Coast,30903,Gold Coast - North,309031240,Runaway Bay,9624,9755,5.5,1776.2
+3RQLD,Rest of Qld,309,Gold Coast,30904,Gold Coast Hinterland,309041241,Guanaba - Springbrook,4628,4687,303.7,15.4
+3RQLD,Rest of Qld,309,Gold Coast,30904,Gold Coast Hinterland,309041242,Tamborine - Canungra,16584,16855,524.4,32.1
+3RQLD,Rest of Qld,309,Gold Coast,30905,Mudgeeraba - Tallebudgera,309051243,Currumbin Valley - Tallebudgera,8009,8112,114.3,71
+3RQLD,Rest of Qld,309,Gold Coast,30905,Mudgeeraba - Tallebudgera,309051244,Mudgeeraba - Bonogin,20536,20770,66.6,311.7
+3RQLD,Rest of Qld,309,Gold Coast,30905,Mudgeeraba - Tallebudgera,309051245,Reedy Creek - Andrews,9452,9610,8.1,1188
+3RQLD,Rest of Qld,309,Gold Coast,30906,Nerang,309061246,Carrara,14124,14340,14.6,982.8
+3RQLD,Rest of Qld,309,Gold Coast,30906,Nerang,309061247,Highland Park,8772,8797,4.6,1899.5
+3RQLD,Rest of Qld,309,Gold Coast,30906,Nerang,309061248,Nerang - Mount Nathan,22269,22560,61.5,366.8
+3RQLD,Rest of Qld,309,Gold Coast,30906,Nerang,309061249,Pacific Pines - Gaven,19110,19143,16.4,1166
+3RQLD,Rest of Qld,309,Gold Coast,30906,Nerang,309061250,Worongary - Tallai,8920,9211,26,354.1
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071251,Coomera,23702,24313,24.7,986
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071252,Helensvale,20744,21073,20.1,1046.7
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071253,Hope Island,17509,18253,55.8,327.2
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071254,Jacobs Well - Alberton,5381,5608,153.7,36.5
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071256,Oxenford - Maudsland,19512,19732,26.9,734.7
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071552,Ormeau (East) - Stapylton,11728,12022,25.6,469.6
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071553,Ormeau (West) - Yatala,12804,13037,46.5,280.1
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071554,Pimpama - North,13202,13841,31.9,434.4
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071555,Pimpama - South,12614,12833,4.4,2929.5
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071556,Upper Coomera (South) - Wongawallan,12277,12438,68.8,180.7
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071557,Upper Coomera - North,21722,21884,15.6,1402.7
+3RQLD,Rest of Qld,309,Gold Coast,30907,Ormeau - Oxenford,309071558,Willow Vale - Pimpama (West),8343,8721,45.9,190.1
+3RQLD,Rest of Qld,309,Gold Coast,30908,Robina,309081259,Clear Island Waters,4522,4570,4.4,1038.5
+3RQLD,Rest of Qld,309,Gold Coast,30908,Robina,309081260,Merrimac,7365,7423,8.3,892
+3RQLD,Rest of Qld,309,Gold Coast,30908,Robina,309081262,Varsity Lakes,18024,18207,6,3059.6
+3RQLD,Rest of Qld,309,Gold Coast,30908,Robina,309081559,Robina - East,18086,18355,8.3,2204.3
+3RQLD,Rest of Qld,309,Gold Coast,30908,Robina,309081560,Robina - West,9557,9678,6.6,1459.2
+3RQLD,Rest of Qld,309,Gold Coast,30909,Southport,309091263,Ashmore,12794,12809,6.8,1875.2
+3RQLD,Rest of Qld,309,Gold Coast,30909,Southport,309091264,Molendinar,6693,6707,7.7,876.3
+3RQLD,Rest of Qld,309,Gold Coast,30909,Southport,309091265,Parkwood,9121,9135,6.2,1472
+3RQLD,Rest of Qld,309,Gold Coast,30909,Southport,309091540,Southport - North,20017,20260,7.7,2626.6
+3RQLD,Rest of Qld,309,Gold Coast,30909,Southport,309091541,Southport - South,19866,20247,6.7,3043.4
+3RQLD,Rest of Qld,309,Gold Coast,30910,Surfers Paradise,309101267,Benowa,10639,10728,6.6,1637
+3RQLD,Rest of Qld,309,Gold Coast,30910,Surfers Paradise,309101268,Bundall,5061,5048,3.9,1293.7
+3RQLD,Rest of Qld,309,Gold Coast,30910,Surfers Paradise,309101269,Main Beach,4215,4418,3.5,1276.8
+3RQLD,Rest of Qld,309,Gold Coast,30910,Surfers Paradise,309101561,Surfers Paradise - North,14299,14640,2.5,5958.7
+3RQLD,Rest of Qld,309,Gold Coast,30910,Surfers Paradise,309101562,Surfers Paradise - South,16782,17410,3.3,5213.8
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011271,Darra - Sumner,5001,5141,7.5,688.8
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011272,Durack,8739,8813,4.4,2018.9
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011274,Inala - Richlands,21351,21884,10.9,2012.5
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011275,Oxley (Qld),9370,9434,6.9,1364
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011276,Wacol,6904,6975,19.1,366
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011563,Doolandella,9780,9953,4,2470
+3GBRI,Greater Brisbane,310,Ipswich,31001,Forest Lake - Oxley,310011564,Forest Lake - Ellen Grove,23983,24080,11,2187.5
+3GBRI,Greater Brisbane,310,Ipswich,31002,Ipswich Hinterland,310021277,Boonah,13270,13450,2099.5,6.4
+3GBRI,Greater Brisbane,310,Ipswich,31002,Ipswich Hinterland,310021278,Esk,5194,5236,1889.7,2.8
+3GBRI,Greater Brisbane,310,Ipswich,31002,Ipswich Hinterland,310021279,Lake Manchester - England Creek,0,0,112.8,0
+3GBRI,Greater Brisbane,310,Ipswich,31002,Ipswich Hinterland,310021280,Lockyer Valley - East,23460,24138,741.6,32.5
+3GBRI,Greater Brisbane,310,Ipswich,31002,Ipswich Hinterland,310021281,Lowood,15219,15478,617.7,25.1
+3GBRI,Greater Brisbane,310,Ipswich,31002,Ipswich Hinterland,310021282,Rosewood,15959,16825,674.6,24.9
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031283,Brassall,12943,13196,8.2,1608.1
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031284,Bundamba,10178,10405,17.2,603.2
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031285,Churchill - Yamanto,7128,7182,9.4,766.8
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031286,Ipswich - Central,6893,6923,7.9,879.5
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031287,Ipswich - East,18894,19056,11.5,1659.7
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031288,Ipswich - North,4648,4680,65.2,71.8
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031289,Karalee - Barellan Point,7193,7320,19.2,381
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031290,Karana Downs,6238,6261,62.2,100.7
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031291,Leichhardt - One Mile,8765,8911,20.2,440.6
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031292,North Ipswich - Tivoli,6592,6671,9.6,697.5
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031293,Raceview,16205,16382,9.1,1790.6
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031294,Ripley,20328,23459,130.6,179.7
+3GBRI,Greater Brisbane,310,Ipswich,31003,Ipswich Inner,310031295,Riverview,3169,3168,7.8,406.9
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041297,Camira - Gailes,9709,9794,9.4,1042.4
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041298,Carole Park,7,7,4,1.7
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041299,Collingwood Park - Redbank,14098,14921,15.7,947.8
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041300,Goodna,11370,11381,7.9,1448.1
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041301,New Chum,3,3,6,0.5
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041302,Redbank Plains,28131,29057,19.4,1499.8
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041303,Springfield,8384,8537,6.7,1278.8
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041304,Springfield Lakes,28200,29522,18.4,1603.3
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041565,Augustine Heights - Brookwater,10025,10178,9.6,1060.9
+3GBRI,Greater Brisbane,310,Ipswich,31004,Springfield - Redbank,310041566,Bellbird Park,10562,10949,6.5,1682.3
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31101,Beaudesert,311011305,Beaudesert,16090,16642,1628,10.2
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31102,Beenleigh,311021306,Beenleigh,8912,9004,7.7,1173.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31102,Beenleigh,311021307,Eagleby,14315,14488,13.8,1048.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31102,Beenleigh,311021308,Edens Landing - Holmview,11158,11432,6.6,1729
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31102,Beenleigh,311021309,Mount Warren Park,5976,5964,4.2,1414.3
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31102,Beenleigh,311021310,Wolffdene - Bahrs Scrub,11979,12765,27.8,458.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031311,Boronia Heights - Park Ridge,25643,27073,32,847.3
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031312,Browns Plains,9184,9517,7.3,1298.5
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031313,Chambers Flat - Logan Reserve,15063,16875,36.3,464.8
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031314,Crestmead,12818,12895,7,1850.7
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031315,Greenbank Military Camp,0,0,40.6,0
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031316,Hillcrest,9835,10043,9.4,1070.7
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031317,Marsden,17298,17494,6.9,2529.2
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031318,Munruben - Park Ridge South,4547,4565,20.8,219.8
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31103,Browns Plains,311031319,Regents Park - Heritage Park,17035,17206,9.4,1833.4
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31104,Jimboomba,311041322,Logan Village,9628,9963,74.3,134.1
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31104,Jimboomba,311041567,Flagstone (East) - Riverbend,7109,7190,28.9,248.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31104,Jimboomba,311041568,Flagstone (West) - New Beith,12357,13360,185.8,71.9
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31104,Jimboomba,311041569,Greenbank - North Maclean,11115,12691,72.7,174.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31104,Jimboomba,311041570,Jimboomba - Glenlogan,20673,21545,181.7,118.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31104,Jimboomba,311041571,Yarrabilba,14575,15803,39.1,404.4
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31105,Loganlea - Carbrook,311051323,Bethania - Waterford,13015,13108,12.6,1037.9
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31105,Loganlea - Carbrook,311051324,Cornubia - Carbrook,9452,9471,37.5,252.3
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31105,Loganlea - Carbrook,311051325,Loganholme - Tanah Merah,12554,12700,13.3,956.1
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31105,Loganlea - Carbrook,311051326,Loganlea,12785,12948,11.3,1145.1
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31105,Loganlea - Carbrook,311051327,Shailer Park,12627,12717,8,1584.5
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31105,Loganlea - Carbrook,311051328,Waterford West,8485,8569,5.9,1441.5
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061329,Daisy Hill,7396,7458,9,830.6
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061330,Kingston (Qld),11090,11172,6.8,1641.5
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061331,Logan Central,6573,6653,5.1,1296
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061332,Rochedale South - Priestdale,16030,16053,13,1233.8
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061333,Slacks Creek,10739,10811,8.3,1301.7
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061334,Springwood,10291,10328,6.2,1679.3
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061335,Underwood,7408,7527,4.2,1797.7
+3GBRI,Greater Brisbane,311,Logan - Beaudesert,31106,Springwood - Kingston,311061336,Woodridge,13901,14127,4.7,3025.1
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31201,Bowen Basin - North,312011337,Bowen,11025,11266,52.6,214.1
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31201,Bowen Basin - North,312011338,Broadsound - Nebo,9166,9190,27991.4,0.3
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31201,Bowen Basin - North,312011339,Clermont,4036,4068,27669.9,0.1
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31201,Bowen Basin - North,312011340,Collinsville,3988,4008,21092.2,0.2
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31201,Bowen Basin - North,312011341,Moranbah,9957,9928,3046.6,3.3
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021342,Andergrove - Beaconsfield,16855,17169,17.6,978
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021343,East Mackay,3857,3820,4.6,827.3
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021344,Eimeo - Rural View,14772,14911,22,676.8
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021345,Eungella Hinterland,9,9,2048.8,0
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021346,Mackay,4131,4154,4,1045.6
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021347,Mackay Harbour,658,676,10.2,66.5
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021348,Mount Pleasant - Glenella,11999,12060,56.3,214.3
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021349,North Mackay,6406,6418,9.7,662.8
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021350,Ooralea - Bakers Creek,6509,6600,48.7,135.5
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021351,Pioneer Valley,9355,9449,1184.2,8
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021352,Sarina,12388,12500,1439.6,8.7
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021353,Seaforth - Calen,8645,8785,2104.1,4.2
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021354,Shoal Point - Bucasia,6505,6590,17.9,369.1
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021355,Slade Point,3655,3669,8.9,412.6
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021356,South Mackay,7187,7251,6.9,1052.3
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021357,Walkerston - Eton,8727,8749,624.2,14
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31202,Mackay,312021358,West Mackay,6481,6443,5.8,1112.6
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31203,Whitsunday,312031359,Airlie - Whitsundays,16225,16597,304.1,54.6
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31203,Whitsunday,312031360,Cape Conway,0,0,295.4,0
+3RQLD,Rest of Qld,312,Mackay - Isaac - Whitsunday,31203,Whitsunday,312031361,Proserpine,9401,9503,2074.7,4.6
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31301,Bribie - Beachmere,313011362,Beachmere - Sandstone Point,17601,17733,110.1,161.1
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31301,Bribie - Beachmere,313011363,Bribie Island,22068,22215,145.4,152.8
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021364,Burpengary - East,8696,9216,27.2,338.8
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021366,Caboolture - South,26986,27798,14,1988.9
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021367,Elimbah,4592,4645,101.2,45.9
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021368,Morayfield - East,13267,13813,8.5,1620.7
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021369,Wamuran,4468,4522,89.4,50.6
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021572,Caboolture - East,19496,19929,49.9,399.7
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31302,Caboolture,313021573,Caboolture - West,14282,14884,24.6,605.3
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31303,Caboolture Hinterland,313031370,Kilcoy,6097,6216,2863.3,2.2
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31303,Caboolture Hinterland,313031371,Woodford - D'Aguilar,10415,10806,525,20.6
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31304,Narangba - Burpengary,313041372,Burpengary,18468,19133,22.3,856.7
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31304,Narangba - Burpengary,313041373,Deception Bay,24173,25304,31.9,793.8
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31304,Narangba - Burpengary,313041374,Morayfield,6812,7826,24.9,313.9
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31304,Narangba - Burpengary,313041375,Narangba,23104,23657,37.7,627.4
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31304,Narangba - Burpengary,313041376,Upper Caboolture,3528,3597,55.6,64.7
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31305,Redcliffe,313051377,Clontarf,8846,8876,6.3,1407.1
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31305,Redcliffe,313051378,Margate - Woody Point,12559,12649,4.3,2955
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31305,Redcliffe,313051379,Redcliffe,11060,11134,4.2,2661.9
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31305,Redcliffe,313051380,Rothwell - Kippa-Ring,17597,17562,15.4,1141.1
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31305,Redcliffe,313051574,Moreton Island,335,339,175.3,1.9
+3GBRI,Greater Brisbane,313,Moreton Bay - North,31305,Redcliffe,313051575,Scarborough - Newport,17539,18187,8.1,2242
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31401,The Hills District,314011382,Albany Creek,17279,17369,9.8,1775.6
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31401,The Hills District,314011383,Cashmere,21109,21462,45.2,474.5
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31401,The Hills District,314011384,Dayboro,9945,10103,406.8,24.8
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31401,The Hills District,314011385,Eatons Hill,8013,7984,9.1,876.8
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31401,The Hills District,314011386,The Hills District,25916,26166,31.6,827.4
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31401,The Hills District,314011387,Samford Valley,13087,13239,166.1,79.7
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31402,North Lakes,314021389,Murrumba Downs - Griffin,26566,27130,22.5,1204.7
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31402,North Lakes,314021576,Dakabin,5955,6194,5.6,1112.7
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31402,North Lakes,314021577,Kallangur,23324,23466,11.1,2119.8
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31402,North Lakes,314021578,Mango Hill,17502,17874,15.4,1163.9
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31402,North Lakes,314021579,North Lakes,24386,24527,11.8,2077.8
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31403,Strathpine,314031391,Bray Park,10722,10810,4.5,2409.5
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31403,Strathpine,314031392,Lawnton,7900,8120,9.3,873.2
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31403,Strathpine,314031393,Petrie,9113,9202,6.7,1365.8
+3GBRI,Greater Brisbane,314,Moreton Bay - South,31403,Strathpine,314031394,Strathpine - Brendale,15120,15313,17.9,856.7
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011395,Aurukun,1158,1165,7424,0.2
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011396,Cape York,8395,8515,112961,0.1
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011397,Croydon - Etheridge,991,1000,68697.2,0
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011398,Kowanyama - Pormpuraaw,1792,1805,6950.7,0.3
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011399,Northern Peninsula,2925,2944,1052.1,2.8
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011400,Tablelands,6354,6420,52403,0.1
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011401,Torres,3485,3490,883.7,3.9
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011402,Torres Strait Islands,4278,4298,490,8.8
+3RQLD,Rest of Qld,315,Queensland - Outback,31501,Far North,315011403,Weipa,4268,4297,15.8,271.9
+3RQLD,Rest of Qld,315,Queensland - Outback,31502,Outback - North,315021404,Carpentaria,5227,5284,114443.6,0
+3RQLD,Rest of Qld,315,Queensland - Outback,31502,Outback - North,315021405,Mount Isa,18305,18162,68.7,264.4
+3RQLD,Rest of Qld,315,Queensland - Outback,31502,Outback - North,315021406,Mount Isa Surrounds,4297,4325,84051.8,0.1
+3RQLD,Rest of Qld,315,Queensland - Outback,31502,Outback - North,315021407,Northern Highlands,3173,3183,108517.5,0
+3RQLD,Rest of Qld,315,Queensland - Outback,31503,Outback - South,315031408,Barcaldine - Blackall,4872,4912,83919.9,0.1
+3RQLD,Rest of Qld,315,Queensland - Outback,31503,Outback - South,315031409,Charleville,3988,4004,40699.8,0.1
+3RQLD,Rest of Qld,315,Queensland - Outback,31503,Outback - South,315031410,Far Central West,2198,2227,271272.5,0
+3RQLD,Rest of Qld,315,Queensland - Outback,31503,Outback - South,315031411,Far South West,2781,2791,188751.6,0
+3RQLD,Rest of Qld,315,Queensland - Outback,31503,Outback - South,315031412,Longreach,3745,3741,40572.2,0.1
+3RQLD,Rest of Qld,316,Sunshine Coast,31601,Buderim,316011413,Buderim - North,19707,20127,24.1,834.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31601,Buderim,316011414,Buderim - South,18260,18362,30.1,609.3
+3RQLD,Rest of Qld,316,Sunshine Coast,31601,Buderim,316011415,Mountain Creek,12260,12397,7.4,1682.5
+3RQLD,Rest of Qld,316,Sunshine Coast,31601,Buderim,316011416,Sippy Downs,12527,12683,14.5,874
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021417,Aroona - Currimundi,10254,10328,5.5,1873.2
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021418,Buddina - Minyama,7170,7410,4.1,1808.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021419,Caloundra - Kings Beach,7048,7094,4,1777.5
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021421,Golden Beach - Pelican Waters,13949,14293,10.5,1367.4
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021422,Moffat Beach - Battery Hill,8262,8303,3.9,2132.9
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021423,Parrearra - Warana,11081,11379,6.9,1652.3
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021424,Wurtulla - Birtinya,11577,11624,6.8,1698.5
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021580,Caloundra West - Baringa,21892,23872,47.4,503.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31602,Caloundra,316021581,Meridan Plains - Little Mountain (North),14999,15068,24,626.9
+3RQLD,Rest of Qld,316,Sunshine Coast,31603,Maroochy,316031425,Coolum Beach,16932,17064,18.1,942.2
+3RQLD,Rest of Qld,316,Sunshine Coast,31603,Maroochy,316031426,Marcoola - Mudjimba,12528,12672,32.9,385.3
+3RQLD,Rest of Qld,316,Sunshine Coast,31603,Maroochy,316031427,Maroochydore - Kuluin,25283,25797,13.8,1862.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31603,Maroochy,316031428,Mooloolaba - Alexandra Headland,13040,13101,5.5,2381.6
+3RQLD,Rest of Qld,316,Sunshine Coast,31605,Noosa,316051434,Noosa Heads,5270,5319,13,408.9
+3RQLD,Rest of Qld,316,Sunshine Coast,31605,Noosa,316051435,Noosaville,9583,9634,26.4,364.4
+3RQLD,Rest of Qld,316,Sunshine Coast,31605,Noosa,316051437,Sunshine Beach,7410,7524,7.3,1033
+3RQLD,Rest of Qld,316,Sunshine Coast,31605,Noosa,316051438,Tewantin,10647,10660,25.6,416.1
+3RQLD,Rest of Qld,316,Sunshine Coast,31605,Noosa,316051543,Peregian Beach - Marcus Beach,4338,4374,13.7,319.4
+3RQLD,Rest of Qld,316,Sunshine Coast,31605,Noosa,316051544,Peregian Springs,11797,11924,6.1,1967.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31606,Sunshine Coast Hinterland,316061439,Beerwah,9835,9938,148.6,66.9
+3RQLD,Rest of Qld,316,Sunshine Coast,31606,Sunshine Coast Hinterland,316061440,Caloundra Hinterland,9291,9352,459.3,20.4
+3RQLD,Rest of Qld,316,Sunshine Coast,31606,Sunshine Coast Hinterland,316061441,Glass House Mountains,7177,7309,184.2,39.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31606,Sunshine Coast Hinterland,316061442,Landsborough,20558,21628,134.6,160.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31606,Sunshine Coast Hinterland,316061443,Maroochy Hinterland,7299,7415,526.3,14.1
+3RQLD,Rest of Qld,316,Sunshine Coast,31606,Sunshine Coast Hinterland,316061444,Palmwoods,13173,13537,115.2,117.5
+3RQLD,Rest of Qld,316,Sunshine Coast,31607,Nambour,316071545,Bli Bli,11797,11935,44.8,266.6
+3RQLD,Rest of Qld,316,Sunshine Coast,31607,Nambour,316071546,Diddillibah - Rosemount,4676,4731,31.3,151.1
+3RQLD,Rest of Qld,316,Sunshine Coast,31607,Nambour,316071547,Eumundi - Yandina,13464,13729,215.8,63.6
+3RQLD,Rest of Qld,316,Sunshine Coast,31607,Nambour,316071548,Nambour,24325,24674,54,456.7
+3RQLD,Rest of Qld,316,Sunshine Coast,31608,Noosa Hinterland,316081549,Noosa Hinterland,25904,26251,820.1,32
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011445,Cambooya - Wyreema,8723,8905,227.5,39.1
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011446,Darling Heights,16079,16382,12.5,1306.8
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011447,Drayton - Harristown,11387,11514,16.3,707.3
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011448,Gatton,8749,8897,50,178
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011449,Gowrie (Qld),7883,8154,81,100.7
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011450,Highfields,16318,16630,149.3,111.4
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011451,Lockyer Valley - West,12780,13029,1480.2,8.8
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011452,Middle Ridge,8094,8113,8.7,934.7
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011453,Newtown (Qld),10625,10761,5.5,1941.2
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011454,North Toowoomba - Harlaxton,6591,6596,10.3,640
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011455,Rangeville,8836,8887,8.3,1076.9
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011456,Toowoomba - Central,14341,14434,9.5,1516.5
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011457,Toowoomba - East,10796,10831,19.4,557.8
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011458,Toowoomba - West,17553,17905,161.3,111
+3RQLD,Rest of Qld,317,Toowoomba,31701,Toowoomba,317011459,Wilsonton,14612,14669,18.9,774.3
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011460,Ayr,9232,9234,69.8,132.2
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011461,Burdekin,7901,7980,4878.6,1.6
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011462,Charters Towers,8154,8172,41.9,195.2
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011463,Dalrymple,3876,3916,68340.3,0.1
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011464,Ingham,4483,4471,41.6,107.4
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011465,Ingham Surrounds,6647,6723,2765.6,2.4
+3RQLD,Rest of Qld,318,Townsville,31801,Charters Towers - Ayr - Ingham,318011466,Palm Island,2282,2335,72,32.4
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021467,Aitkenvale,4858,4848,3.3,1466
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021468,Annandale (Qld),10323,10353,18.8,549.6
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021469,Belgian Gardens - Pallarenda,3203,3190,39.8,80.1
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021470,Bohle Plains,9961,10466,100.1,104.6
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021471,Condon - Rasmussen,11348,11457,46.2,248.2
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021472,Cranbrook,6057,6096,3.4,1815.3
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021474,Douglas,8352,8318,79,105.3
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021475,Garbutt - West End,6577,6605,17,387.4
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021476,Gulliver - Currajong - Vincent,7859,7872,4.9,1596.4
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021477,Heatley,3991,4023,2,1980.2
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021478,Hermit Park - Rosslea,5673,5752,3.9,1481
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021479,Hyde Park - Pimlico,4748,4743,3.2,1482.9
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021480,Kelso,11166,11180,170.4,65.6
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021481,Kirwan - East,7882,7924,3.5,2249
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021482,Kirwan - West,15200,15115,9.3,1617.9
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021483,Magnetic Island,2617,2658,51.2,52
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021484,Mount Louisa,10833,10932,31.6,345.9
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021485,Mundingburra,3588,3551,2.6,1345.4
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021486,Northern Beaches,7034,7196,1008.7,7.1
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021487,Oonoonba,7495,7544,8.7,867.2
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021488,South Townsville - Railway Estate,5554,5618,9.2,612
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021489,Townsville - South,5523,5861,2073.2,2.8
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021490,Townsville City - North Ward,9534,9589,6.8,1417.9
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021491,Wulguru - Roseneath,6338,6403,63.5,100.8
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021582,Burdell - Mount Low,21612,22202,44,504.1
+3RQLD,Rest of Qld,318,Townsville,31802,Townsville,318021583,Deeragun - Jensen,6647,6770,22,307.5
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011492,Ashfield - Kepnock,5908,5891,8.1,729.5
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011493,Bargara - Burnett Heads,21179,21697,144.6,150
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011494,Branyan - Kensington,5845,5969,50.4,118.4
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011495,Bundaberg,6525,6611,6.1,1079.9
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011496,Bundaberg East - Kalkie,5982,5981,13.8,434.7
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011497,Bundaberg North - Gooburrum,7886,7935,53.9,147.3
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011498,Bundaberg Surrounds - North,9834,10016,1273.7,7.9
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011499,Bundaberg Surrounds - South,11889,12134,2207.2,5.5
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011500,Millbank - Avoca,7773,7848,9.5,822.6
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011501,Svensson Heights - Norville,6023,6028,6.4,942
+3RQLD,Rest of Qld,319,Wide Bay,31901,Bundaberg,319011502,Walkervale - Avenell Heights,11304,11323,12.4,910.1
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021503,Gayndah - Mundubbera,6648,6721,8513.4,0.8
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021504,Gin Gin,5734,5851,2355.5,2.5
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021505,Kingaroy,11000,11059,70.2,157.5
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021506,Kingaroy Surrounds - North,9936,10038,4332.3,2.3
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021507,Kingaroy Surrounds - South,4400,4469,2370.7,1.9
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021508,Monto - Eidsvold,3801,3841,11156.5,0.3
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021509,Nanango,10630,10843,1648.7,6.6
+3RQLD,Rest of Qld,319,Wide Bay,31902,Burnett,319021510,North Burnett,13,13,289.5,0
+3RQLD,Rest of Qld,319,Wide Bay,31903,Gympie - Cooloola,319031511,Cooloola,7061,7148,1141.6,6.3
+3RQLD,Rest of Qld,319,Wide Bay,31903,Gympie - Cooloola,319031512,Gympie - North,15367,15512,42.7,363.4
+3RQLD,Rest of Qld,319,Wide Bay,31903,Gympie - Cooloola,319031513,Gympie - South,8610,9079,26.8,339.1
+3RQLD,Rest of Qld,319,Wide Bay,31903,Gympie - Cooloola,319031514,Gympie Surrounds,22305,22707,2544.7,8.9
+3RQLD,Rest of Qld,319,Wide Bay,31903,Gympie - Cooloola,319031515,Kilkivan,3904,3959,3219.5,1.2
+3RQLD,Rest of Qld,319,Wide Bay,31904,Hervey Bay,319041516,Booral - River Heads,7436,7887,158.3,49.8
+3RQLD,Rest of Qld,319,Wide Bay,31904,Hervey Bay,319041517,Craignish - Dundowran Beach,6134,6235,35.6,175.1
+3RQLD,Rest of Qld,319,Wide Bay,31904,Hervey Bay,319041518,Pialba - Eli Waters,17356,17754,18.7,948.4
+3RQLD,Rest of Qld,319,Wide Bay,31904,Hervey Bay,319041519,Point Vernon,5850,5985,4.8,1235.1
+3RQLD,Rest of Qld,319,Wide Bay,31904,Hervey Bay,319041520,Torquay - Scarness - Kawungan,16368,16715,10.9,1527.6
+3RQLD,Rest of Qld,319,Wide Bay,31904,Hervey Bay,319041521,Urangan - Wondunna,16277,16623,23.1,719.7
+3RQLD,Rest of Qld,319,Wide Bay,31905,Maryborough,319051522,Burrum - Fraser,11582,11970,2759.1,4.3
+3RQLD,Rest of Qld,319,Wide Bay,31905,Maryborough,319051523,Granville,3179,3227,49,65.8
+3RQLD,Rest of Qld,319,Wide Bay,31905,Maryborough,319051524,Maryborough (Qld),19208,19255,84.3,228.5
+3RQLD,Rest of Qld,319,Wide Bay,31905,Maryborough,319051525,Maryborough Surrounds - South,10875,11170,3823.2,2.9
+3RQLD,Rest of Qld,319,Wide Bay,31905,Maryborough,319051526,Tinana,6147,6176,37.3,165.4
+,,,,,,,Total Queensland,5571890,5669764,1730171.2,3.3
